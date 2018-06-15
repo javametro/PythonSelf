@@ -1,0 +1,9 @@
+python3 octal number leading is 0o or 0O
+
+python3 doesn't have raw_input method.
+
+python3 not use 'L' for postfix for big number.
+
+repr has the original quotas, str function does not have it.
+
+python3 doesn't have cmp function, it replaced by operator
